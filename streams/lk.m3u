@@ -27,8 +27,6 @@ https://edge1-moblive.yuppcdn.net/drm/smil:swarnawahinidrm.smil/manifest.m3u8
 https://edge3-moblive.yuppcdn.net/drm1/smil:thebuddhistdrm.smil/index.m3u8
 #EXTINF:-1 tvg-id="TNLTV.lk@SD",TNL TV (360p)
 https://edge3-moblive.yuppcdn.net/transsd/smil:tnl12.smil/playlist.m3u8?dvr=
-#EXTINF:-1 tvg-id="TV1.lk@SD",TV 1 (576p)
-https://d3ssd0juqbxbw.cloudfront.net/mtvsinstlive/master.m3u8
 #EXTINF:-1 tvg-id="VerbumTV.lk@SD",Verbum TV (480p) [Not 24/7]
 https://edge3-moblive.yuppcdn.net/drm1/smil:verbumtvdrm.smil/index.m3u8
 #EXTINF:-1 tvg-id="TalentTV.lk@HD",Talent TV (720p)
@@ -41,3 +39,9 @@ https://mini.allinonereborn.fun/tata.php?id=11612
 https://mini.allinonereborn.fun/tata.php?id=11611
 #EXTINF:-1 tvg-id="VasanthamTV.lk@SD",Vasantham TV (720p)
 https://mini.allinonereborn.fun/tata.php?id=11610
+#EXTINF:-1 tvg-id="TVDerana.lk@SD",TV Derana (720p)
+https://mini.allinonereborn.fun/tata.php?id=11607
+#EXTINF:-1 tvg-id="TV1.lk@SD",TV 1 (720p)
+https://mini.allinonereborn.fun/tata.php?id=11606
+#EXTINF:-1 tvg-id="SirasaTV.lk@SD",Sirasa TV (720p)
+https://mini.allinonereborn.fun/tata.php?id=11614

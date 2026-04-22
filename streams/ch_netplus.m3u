@@ -390,8 +390,6 @@ https://viamotionhsi.netplus.ch/live/eds/hd1/browser-dash/hd1.mpd
 https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
 #EXTINF:-1 tvg-id="TFX.fr@SD",TFX (720p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/nt1/browser-dash/nt1.mpd
-#EXTINF:-1 tvg-id="TMC.fr@HD",TMC HD (1080p) [Geo-Blocked]
-https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
 #EXTINF:-1 tvg-id="Trek.fr@HD",Trek HD (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr@SD",TRT Turk (720p) [Geo-Blocked]
