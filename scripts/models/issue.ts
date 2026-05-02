@@ -1,15 +1,15 @@
-import { IssueData } from '../core'
+import { DataSet } from '../core'
 
 type IssueProps = {
   number: number
   labels: string[]
-  data: IssueData
+  data: DataSet
 }
 
 export class Issue {
   number: number
   labels: string[]
-  data: IssueData
+  data: DataSet
 
   constructor({ number, labels, data }: IssueProps) {
     this.number = number

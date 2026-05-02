@@ -18,7 +18,7 @@ import fs from 'node:fs'
 export function isURI(string: string): boolean {
   try {
     const url = new URL(string)
-    return /^(http:|https:|mmsh:|rtsp:|rtmp:)/.test(url.protocol)
+    return /^(http:|https:|mmsh:|rtsp:|rtmp:|srt:|rtp:|udp:)/.test(url.protocol)
   } catch {
     return false
   }
