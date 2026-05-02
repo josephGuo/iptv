@@ -167,6 +167,7 @@ export async function loadIssues(props?: { labels: string | string[] }) {
       per_page: 100,
       labels,
       status: 'open',
+      direction: 'asc',
       headers: {
         'X-GitHub-Api-Version': '2022-11-28'
       }
@@ -292,4 +293,34 @@ function parseDiscussion(discussion: {
     category: discussion.category.name,
     data: new DataSet(data)
   })
+}
+
+class LogThread {
+  issue: Issue
+  type: string
+
+  constructor(issue: Issue, type: string) {
+    this.issue = issue
+    this.type = type
+  }
+
+  start() {
+    console.log(`[#${this.issue.number}] ${this.type}: Issue #${this.issue.number}`)
+  }
+
+  warn(message: string) {
+    console.log(`[#${this.issue.number}] ${this.type}: └── WARNING: ${message}`)
+  }
+
+  error(message: string) {
+    console.log(`[#${this.issue.number}] ${this.type}: └── ERROR: ${message}`)
+  }
+
+  info(message: string) {
+    console.log(`[#${this.issue.number}] ${this.type}: └── INFO: ${message}`)
+  }
+}
+
+export function createThread(issue: Issue, type: string): LogThread {
+  return new LogThread(issue, type)
 }
