@@ -298,10 +298,6 @@ https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/play
 https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="DidgahTV.us@SD",Didgah TV (576p)
 https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel
-http://104.255.88.155/disney/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel
-https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwht95XgI8UhySeZgp7szKj3V/m3u8
 #EXTINF:-1 tvg-id="DocumentaryPlus.us@US",Documentary+ (1080p)
 https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="DocumentaryPlus.us@International",Documentary+ International (1080p)
@@ -452,8 +448,6 @@ https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
 https://dvrfl03.bozztv.com/hdirect/hdirect-kajoutv/index.m3u8
 #EXTINF:-1 tvg-id="KCMNLD426.us@SD",KCMN-LD6 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
-#EXTINF:-1 tvg-id="KCTV621.us@HD",KCTV-DT1 [Geo-blocked]
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-kctv5news-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="KDFW41.us@HD",KDFW-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="KetchupTV.us@SD",Ketchup TV (720p)
@@ -466,8 +460,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-on
 https://cdn-unified-hls.streamspot.com/ingest1/4b4d895dd6/playlist.m3u8?origin=1
 #EXTINF:-1 tvg-id="KMEXDT341.us@HD",KMEX-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
-#EXTINF:-1 tvg-id="KMOV41.us@HD",KMOV-DT1 [Geo-blocked]
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-kmovnews4stlouis-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="KMSPDT1.us@SD",KMSP-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kmsp-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="KNBC41.us@HD",KNBC-DT1 (1080p)
@@ -494,8 +486,6 @@ http://txc4-swbb-mn.fibernet-tv.com/KABY-CW-2364/index.m3u8
 https://dvrfl04.tulix.tv/teleup-ktla/mpegts
 #EXTINF:-1 tvg-id="KTTV111.us@HD",KTTV-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="KTVK31.us@HD",KTVK-DT1 (720p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-arizonasfamily-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="KUVNDT491.us@HD",KUVN-DT1
 https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
 #EXTINF:-1 tvg-id="KVEA521.us@HD",KVEA-DT1
@@ -576,8 +566,6 @@ http://stream.missiontv.com:1935/live/missiontv_720p/playlist.m3u8
 https://live.relentlessinnovations.net:1936/rspe-tv/rspe-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MohabatTV.us@SD",Mohabat TV (540p)
 http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="MotorTrend.us@SD",Motor Trend
-http://104.255.88.155/motortrend/index.m3u8
 #EXTINF:-1 tvg-id="Movies.us@SD",Movies! (480p)
 https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
 #EXTINF:-1 tvg-id="MRVTVChannel44.us@SD",MRVTV Channel 44 (720p)
@@ -957,8 +945,6 @@ https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjml
 http://190.2.212.209:8050/play/a0q3
 #EXTINF:-1 tvg-id="UniversalComedy.us@SD",Universal Comedy (480p)
 http://190.2.212.209:8050/play/a0q4
-#EXTINF:-1 tvg-id="UnivisionTlnovelas.us@SD",Univision Tlnovelas [Not 24/7]
-https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhuebPX8UYW2fAiSlZGjGoPc/m3u8
 #EXTINF:-1 tvg-id="VallenatoInternacional.us@SD",Vallenato Internacional (720p) [Not 24/7]
 https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8
 #EXTINF:-1 tvg-id="VBSTV.us@SD",VBS TV (480p) [Not 24/7]
@@ -993,8 +979,6 @@ https://dvrfl03.bozztv.com/hondu/hondu-rick-fox5/index.m3u8
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8
 #EXTINF:-1 tvg-id="WBTSCD151.us@HD",WBTS-CD1 (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS
-#EXTINF:-1 tvg-id="WBTV641.us@HD",WBTV-DT1 (720p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wbtvnews-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="WCAU621.us@HD",WCAU-DT1 (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI
 #EXTINF:-1 tvg-id="WCBSTV21.us@HD",WCBS-DT1 (720p) [Geo-blocked]
@@ -1025,8 +1009,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-on
 https://f-tx-edge-87.christianworldmedia.com/313watkins/mp4:313watkins/playlist.m3u8
 #EXTINF:-1 tvg-id="WHSGTV634.us@SD",WHSG-DT4
 https://dvrfl03.bozztv.com/hondu/hondu-ovair1-enlacetv-atl/index.m3u8
-#EXTINF:-1 tvg-id="WHSVTV34.us@SD",WHSV-DT4
-http://104.255.88.155/metv/index.m3u8
 #EXTINF:-1 tvg-id="WillowSports.us@SD",Willow Sports (1080p) [Geo-blocked]
 https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WITI61.us@HD",WITI-DT1 (1080p)
@@ -1059,20 +1041,14 @@ http://61ce5915.amazzin.pw/iptv/FF38ZQWZHTSV8T4XX9RDZYLB/1098/index.m3u8
 https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8?ads.xumo_channelId=88889709a&ads.xumo_ifaType=&ads.xumo_providerId=3816&ads.xumo_providerName=NBCNNY
 #EXTINF:-1 tvg-id="WNJU471.us@HD",WNJU-DT1
 http://104.238.205.28:9090/278678_.m3u8
-#EXTINF:-1 tvg-id="WNJU471.us@HD",WNJU-DT1
-https://moviezona593.com:8443/play/E3uopSwsAKpadqYs1Av4lwlP73vRcQvVo1k-yDXv27Y/m3u8
 #EXTINF:-1 tvg-id="WNYW51.us@HD",WNYW-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="WOIO431.us@HD",WOIO-DT1 (720p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-cleveland19newsplus-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldChannel.us@SD",World Channel (1080p)
 https://world.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="WPIX71.us@HD",WPIX-DT1
 https://e1.thetvapp.to/hls/WPIX/index.m3u8
 #EXTINF:-1 tvg-id="WPXI111.us@HD",WPXI-DT1 (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="WPXXTV501.us@HD",WPXX-DT1
-http://104.255.88.155/ion/index.m3u8
 #EXTINF:-1 tvg-id="WRCDT1.us@SD",WRC-DT1 (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889708/hls/master.m3u8?ads.xumo_channelId=88889708a&ads.xumo_ifaType=&ads.xumo_providerId=3830&ads.xumo_providerName=NBCNWAS
 #EXTINF:-1 tvg-id="WSBDT1.us@SD",WSB-DT1 (1080p)
@@ -1115,8 +1091,6 @@ https://d368vp0qqzvkid.cloudfront.net/11603/88889707/hls/master.m3u8?ads.xumo_ch
 https://tv2.fastcast4u.com:3943/stream/play.m3u8
 #EXTINF:-1 tvg-id="WWORTV91.us@HD",WWOR-DT1
 http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts
-#EXTINF:-1 tvg-id="WXIXTV191.us@HD",WXIX-DT1 (720p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wxixfox19news-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="WXTVDT681.us@HD",WXTV-DT1
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
 #EXTINF:-1 tvg-id="WXXATV233.us@SD",WXXA-DT3
