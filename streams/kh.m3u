@@ -59,8 +59,6 @@ http://43.252.18.195:5080/live/streams/ChineseDrama.playlist.m3u8
 http://43.252.18.195:5080/live/streams/KoreanDrama.playlist.m3u8
 #EXTINF:-1 tvg-id="OneTVESchoolCambodia.kh@SD",One TV E-School Cambodia (1080p)
 http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8
-#EXTINF:-1 tvg-id="PNN.kh@SD",PNN (1080p)
-http://43.252.18.195:5080/live/streams/PNN.playlist.m3u8.m3u8
 #EXTINF:-1 tvg-id="RasmeyHangMeasHDTV.kh@SD",Rasmey Hang Meas HDTV (720p) [Not 24/7]
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SEATV.kh@SD",SEATV (1080p)
