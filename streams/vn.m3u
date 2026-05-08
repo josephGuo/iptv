@@ -115,3 +115,15 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="SCTV16.vn@SD",SCTV16 (720p)
 https://liveh34.vtvprime.vn/hls/SCTV16/03.m3u8
+#EXTINF:-1 tvg-id="SCTV3.vn@SD",SCTV3 (720p)
+https://liveh34.vtvprime.vn/hls/SCTV3/03.m3u8
+#EXTINF:-1 tvg-id="SCTV6.vn@SD",SCTV6 (720p)
+https://liveh34.vtvprime.vn/hls/SCTV6/03.m3u8
+#EXTINF:-1 tvg-id="SCTV7.vn@SD",SCTV7 (720p)
+https://liveh34.vtvprime.vn/hls/SCTV7/03.m3u8
+#EXTINF:-1 tvg-id="SCTV8.vn@SD",SCTV8 (720p)
+https://liveh34.vtvprime.vn/hls/SCTV8/03.m3u8
+#EXTINF:-1 tvg-id="SCTV10.vn@SD",SCTV10 (720p)
+https://liveh34.vtvprime.vn/hls/SCTV10/03.m3u8
+#EXTINF:-1 tvg-id="SCTVPhimTongHop.vn@SD",SCTV Phim Tong Hop (720p)
+https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8

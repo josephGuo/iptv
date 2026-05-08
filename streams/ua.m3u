@@ -37,7 +37,8 @@ https://live.m2.tv/hls3/stream.m3u8
 http://93.78.206.172:8080/stream3/stream.m3u8
 #EXTINF:-1 tvg-id="PershiyXTVMedia.ua@SD",Pershiy XTV Media (576p)
 https://hls.xtvmedia.pp.ua:8443/hls/trk1tv.m3u8
-#EXTINF:-1 tvg-id="Pershyi.ua@SD",Pershyi (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Pershyi.ua",Pershyi (1080p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.109 Safari/537.36
 https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
 #EXTINF:-1 tvg-id="RenomeTV.ua@SD",Renome (576p)
 http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
@@ -45,12 +46,12 @@ http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
 http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Skrypinua.ua@SD",Skrypin.ua (1080p) [Not 24/7]
 https://open-cdn.lanet.tv/play/skrypin.m3u8
-#EXTINF:-1 tvg-id="SuspilneKrym.ua@SD",Suspilne. Krym (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="SuspilneKrym.ua",Suspilne. Krym (1080p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.109 Safari/537.36
 https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8
-#EXTINF:-1 tvg-id="SuspilneKultura.ua@SD",Suspilne. Kultura (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="SuspilneKultura.ua",Suspilne. Kultura (1080p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.109 Safari/537.36
 https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
-#EXTINF:-1 tvg-id="SuspilneSport.ua@SD",Suspilne. Sport (1080p) [Geo-blocked]
-https://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
 #EXTINF:-1 tvg-id="TBNUkraine.us@SD",TBN Україна (720p)
 https://5d23269b3ec0c.streamlock.net/WEB_Ukraine24/ngrp:Ukraine24.stream-adaptive/playlist.m3u8
 #EXTINF:-1 tvg-id="TelekanalRAI.ua@SD",Telekanal RAI (480p)
@@ -147,3 +148,5 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8
 https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="FirstBusiness.ua@SD",First Business (720p)
 https://lowa8026-cmyk.github.io/Ukraine/FirstBussines.m3u8
+#EXTINF:-1 tvg-id="Televsesvit.ua@SD",Televsesvit (1080p)
+https://televsesvit.cdn-04.cosmonova.net.ua/hls/televsesvit_ua_hi/index.m3u8
