@@ -35,3 +35,5 @@ http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
 #EXTINF:-1 tvg-id="CelestialMovies.hk@SD",Celestial Movies (576i)
 http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
+#EXTINF:-1 tvg-id="Thrill.hk@SD",Thrill (540p)
+https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd

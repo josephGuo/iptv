@@ -180,9 +180,6 @@ http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="PJTV.id@SD",PJTV (720p)
 #EXTVLCOPT:http-referrer=https://pjtv.media/streaming/
 https://pjtv28uhf.siar.us/live/pjtv28uhf.m3u8
-#EXTINF:-1 tvg-id="PKTV.id@SD",PKTV (480p) [Not 24/7]
-#EXTVLCOPT:http-referrer=https://pktvkaltim.com/acara/live-content/?noamp=mobile
-https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
 #EXTINF:-1 tvg-id="PONTV.id@SD",PONTV (720p)
 http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="PujaTVAceh.id@SD",Puja TV Aceh (1080p) [Not 24/7]
@@ -407,3 +404,6 @@ https://vodcdn.bamboo-cloud.com/livehls/68c525e1063044539b09c253/master.m3u8
 #EXTINF:-1 tvg-id="Ananda.id@HD",Ananda (1080p)
 #EXTVLCOPT:http-referrer=https://anandatelkomvision.renderforestsites.com/
 https://vodcdn.bamboo-cloud.com/livehls/68ef86320630444b1f796875/master.m3u8
+#EXTINF:-1 tvg-id="PKTV.id@SD",PKTV (480p)
+#EXTVLCOPT:http-referrer=https://pktvkaltim.com/acara/live-content/?noamp=mobile
+https://streaming.id18.tunnel.my.id/hls/stream.m3u8
