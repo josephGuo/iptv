@@ -1421,24 +1421,14 @@ http://103.72.101.252:8080/live/757.m3u8
 http://103.72.101.252:8080/live/756.m3u8
 #EXTINF:-1 tvg-id="ColorsMarathi.in@HD",Colors Marathi HD (1080p)
 http://103.72.101.252:8080/live/755.m3u8
-#EXTINF:-1 tvg-id="RajMusixTamil.in@SD",Raj Musix Tamil (576p)
-http://103.72.101.252:8080/live/748.m3u8
 #EXTINF:-1 tvg-id="ZeeSarthak.in@SD",Zee Sarthak (576p)
 http://103.72.101.252:8080/live/722.m3u8
 #EXTINF:-1 tvg-id="RajTV.in@SD",Raj TV (576p)
 http://103.72.101.252:8080/live/707.m3u8
-#EXTINF:-1 tvg-id="RajDigitalPlus.in@SD",Raj Digital Plus (576p)
-http://103.72.101.252:8080/live/683.m3u8
-#EXTINF:-1 tvg-id="ZeeTamil.in@SD",Zee Tamil (576p)
-http://103.72.101.252:8080/live/628.m3u8
-#EXTINF:-1 tvg-id="ZeeBangla.in@SD",Zee Bangla (576p)
-http://103.72.101.252:8080/live/625.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplex.in@SD",Colors Cineplex (576p)
 http://103.72.101.252:8080/live/482.m3u8
 #EXTINF:-1 tvg-id="ZeeTamilNews.in@SD",Zee Tamil News (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8
-#EXTINF:-1 tvg-id="ZeeThirai.in@HD",Zee Thirai HD (1080p)
-http://103.72.101.252:8080/live/3051.m3u8
 #EXTINF:-1 tvg-id="ColorsTamil.in@HD",Colors Tamil HD (1080p)
 http://103.72.101.252:8080/live/429.m3u8
 #EXTINF:-1 tvg-id="SonySAB.in@HD",Sony SAB HD (1080p) [Geo-blocked]
@@ -1497,3 +1487,7 @@ https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a
 https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="ETVCinema.in@HD",ETV Cinema HD (1080p)
 https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
+#EXTINF:-1 tvg-id="RajDigitalPlus.in@SD",Raj Digital Plus (1080p)
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
+#EXTINF:-1 tvg-id="RajMusixTamil.in@SD",Raj Musix Tamil (1080p)
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
