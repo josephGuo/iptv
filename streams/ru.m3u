@@ -330,3 +330,15 @@ http://tmptv.sunduk.tv/CH255/index.m3u8
 http://tmptv.sunduk.tv/CH257/index.m3u8
 #EXTINF:-1 tvg-id="EuropaPlusTV.ru@SD",Europa Plus TV (576p)
 http://tmptv.sunduk.tv/CH267/index.m3u8
+#EXTINF:-1 tvg-id="Kinosvidanie.ru@SD",Kinosvidanie (576p)
+http://tmptv.sunduk.tv/CH21/index.m3u8
+#EXTINF:-1 tvg-id="RodnoeKino.ru@SD",Rodnoe Kino (576p)
+http://tmptv.sunduk.tv/CH23/index.m3u8
+#EXTINF:-1 tvg-id="Kinosemja.ru@SD",Kinosemja (576p)
+http://tmptv.sunduk.tv/CH25/index.m3u8
+#EXTINF:-1 tvg-id="Kinokomedija.ru@SD",Kinokomedija (576p)
+http://tmptv.sunduk.tv/CH47/index.m3u8
+#EXTINF:-1 tvg-id="AutoPlus.ru@SD",Auto Plus (576p)
+http://tmptv.sunduk.tv/CH49/index.m3u8
+#EXTINF:-1 tvg-id="KinoHit.ru@SD",KinoHit (576p)
+http://tmptv.sunduk.tv/CH57/index.m3u8
