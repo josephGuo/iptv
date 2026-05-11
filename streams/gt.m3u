@@ -54,7 +54,7 @@ https://stream.oursnetworktv.com/latin/jacaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="JehovaNissi.gt@SD",Jehová Nissi (720p)
 https://stream.oursnetworktv.com/latin/nissiGtmH/playlist.m3u8
 #EXTINF:-1 tvg-id="JubiloTV.gt@SD",Júbilo TV (720p)
-https://stream.oursnetworktv.com/latin/jubilotv/playlist.m3u8
+http://173.249.60.54/hls/jubilotv.m3u8
 #EXTINF:-1 tvg-id="Knal4Quiche.gt@SD",Knal 4 Quiché (720p) [Not 24/7]
 https://cdn.streamhispanatv.net:3482/live/knal4gtlive.m3u8
 #EXTINF:-1 tvg-id="MaxivisionTV.gt@SD",Maxivisión TV (720p)
