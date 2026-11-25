@@ -51,6 +51,18 @@ https://streaming.28kanala.eus/hls/z.m3u8
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://liveingesta318.cdnmedia.tv/101weblive/smil:antequera.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="101tvCadiz.es@SD",101tv Cádiz (720p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://liveingesta318.cdnmedia.tv/101weblive/smil:CADIZ.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="101tvMalaga.es@SD",101tv Malaga (720p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://liveingesta318.cdnmedia.tv/101televisionlive/smil:malagaott.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="101tvSevilla.es@SD",101tv Sevilla (720p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://liveingesta318.cdnmedia.tv/101televisionlive/smil:sevillaott.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="APunt.es@SD",A Punt (720p)
 https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8
 #EXTINF:-1 tvg-id="ActivaTV.es@SD",Activa TV (720p)
@@ -361,6 +373,8 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 http://90.170.214.40:9700/stream/avatel/nickelodeon/master.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.es@HD",Nickelodeon HD (1080p)
 http://90.170.214.40:9700/stream/avatel/nickelodeonhd/master.m3u8
+#EXTINF:-1 tvg-id="Nortevision.es@SD",Nortevision (1080p)
+http://amaru.dyndns.org:8870/1.m3u8
 #EXTINF:-1 tvg-id="Nortevision.es@SD",NORTEvisión (1080p)
 http://amaru.dyndns.org:8870/0.m3u8
 #EXTINF:-1 tvg-id="Nova.es@SD",Nova (1080p)
@@ -534,6 +548,8 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 #EXTINF:-1 tvg-id="TVEStar.es@HD",TVE Star HD (1080p)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
+#EXTINF:-1 tvg-id="TVG2.es@SD",TVG2 (720p) [Geo-blocked]
+https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGCativos.es@SD",TVG Cativos
 https://crtvg-xabarinr2-schlive.flumotion.cloud/crtvglive/smil:channel7PRG.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGMiraRadioGalega.es@SD",TVG Mira Radio Galega
@@ -542,8 +558,6 @@ https://crtvg-mirarg-schlive.flumotion.cloud/crtvglive/smil:channel1PRG.smil/pla
 https://crtvg-xabarinr3-schlive.flumotion.cloud/crtvglive/smil:channel8PRG.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGPequerrechos.es@SD",TVG Pequerrechos
 https://crtvg-xabarinr1-schlive.flumotion.cloud/crtvglive/smil:channel6PRG.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVG2.es@SD",TVG2 (720p) [Geo-blocked]
-https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMCordoba.es@SD",TVM Córdoba (1080p) [Not 24/7]
 http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8
 #EXTINF:-1 tvg-id="TVOJesus.es@SD",TVO Jesus (720p)
